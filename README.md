@@ -2,6 +2,8 @@ Simple app to transpose the channels of the output masks of 3DVascNet, to visual
 
 This is a small app (`transpose_masks.exe`) to help you transpose 3D masks so they can be visualized correctly in **Fiji** and **Imaris**.
 
+![](https://github.com/HemaxiN/transpose_masks_3DVascNet/blob/main/mask_transpose.png)
+
 If you're using [**3DVascNet**](https://github.com/HemaxiN/3DVascNet), the output masks might not display correctly in **Fiji** and **Imaris**. This app transposes the masks to fix the channel order, making them compatible with **Fiji** and **Imaris**.
 
 ### How to Use It
