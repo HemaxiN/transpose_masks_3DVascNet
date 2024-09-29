@@ -1,4 +1,4 @@
-Simple app to transpose the channels of the output masks of 3DVascNet, to visualize them correctly in Fiji and Imaris.
+Simple app to transpose the channels of the output masks of [3DVascNet](https://github.com/HemaxiN/3DVascNet), to visualize them correctly in Fiji and Imaris.
 
 This is a small app (`transpose_masks.exe`) to help you transpose 3D masks so they can be visualized correctly in **Fiji** and **Imaris**.
 
